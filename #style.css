@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+div.nav-container{
+   display: flex;
+   height: 6px;
+
+}
